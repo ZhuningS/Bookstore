@@ -1,9 +1,11 @@
 # Bookstore
 线上图书商城系统微信小程序，基于mpvue框架。技术栈：Mpvue  Koa2 MySQL  由于豆瓣api临时关闭，暂时采用模拟数据。
 
-### ##小程序效果截图展示
+### ##小程序效果截图展示 
 
-Github地址：<https://github.com/ZhuningS/Bookstore>
+**Github**博客文章第一篇—小程序效果截图展示 ：[https://zhunings.github.io](https://zhunings.github.io/)
+
+
 
 
 
